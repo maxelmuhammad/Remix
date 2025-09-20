@@ -1,0 +1,5 @@
+{
+  "name": "Remix AI",
+  "description": "An AI-powered image generator that combines two user-uploaded images with a text prompt to create a unique, remixed visual using Gemini.",
+  "requestFramePermissions": []
+}
